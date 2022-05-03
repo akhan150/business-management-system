@@ -3,7 +3,7 @@
 
 2-Create an database in MySQL
 
-3-Unzip akhan150backend.zip and open in SpringBoot project
+3-Unzip akhan150Backend.zip and open in SpringBoot project
 
 4-In src/main/resources edit application.properties and uncomment the username and password, and input your MySQL username and password for the database created in step 2.
 
